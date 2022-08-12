@@ -1,4 +1,4 @@
-# productbert-intermediate
+# Bert - Training
 
 This repository contains code and data download scripts for the paper [Intermediate Training of BERT for Product Matching](http://data.dws.informatik.uni-mannheim.de/largescaleproductcorpus/data/v2/papers/DI2KG2020_Peeters.pdf)
 
